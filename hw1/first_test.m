@@ -1,4 +1,4 @@
-function z = first_test(x,y)
+function z=first_test(x,y)
 % z=first_test(x,y)
 % This is just to set up and test the homework workflow.
 % Add a line of code below that will compute matrix z as matrix x times matrix y.
