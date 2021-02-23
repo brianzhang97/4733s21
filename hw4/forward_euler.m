@@ -15,9 +15,8 @@ t=zeros(1,n+1); % the initial value is at index 1
 u(1)=u0;  % 
 t(1)=t0;
 for k=1:n
-    t(k+1)=t(k)+dt;   % the end time of timestep 
-    % your code to compute u(k+1) from u(k) comes here
-    
-    
+t(k+1)=t(k)+dt;   % the end time of timestep 
+% your code to compute u(k+1) from u(k) comes here
+u(k+1)=u(k)+dt*f(u(k));
 end
 end
