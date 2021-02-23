@@ -1,9 +1,139 @@
 Summary:
-forward_euler maybe nothing submitted?
-trapezoidal maybe nothing submitted?
+forward_euler: success!
+trapezoidal wrong result for input a=-1,t0=1,dt=0.1,n=10,u0=2
 
  Complete output:
 
-forward_euler maybe nothing submitted?
+forward_euler: success!
 
-trapezoidal maybe nothing submitted?
+u =
+  Columns 1 through 2
+   2.000000000000000   1.900000000000000
+  Columns 3 through 4
+                   0                   0
+  Columns 5 through 6
+                   0                   0
+  Columns 7 through 8
+                   0                   0
+  Columns 9 through 10
+                   0                   0
+  Column 11
+                   0
+u =
+  Columns 1 through 2
+   2.000000000000000   1.900000000000000
+  Columns 3 through 4
+   1.805000000000000                   0
+  Columns 5 through 6
+                   0                   0
+  Columns 7 through 8
+                   0                   0
+  Columns 9 through 10
+                   0                   0
+  Column 11
+                   0
+u =
+  Columns 1 through 2
+   2.000000000000000   1.900000000000000
+  Columns 3 through 4
+   1.805000000000000   1.714750000000000
+  Columns 5 through 6
+                   0                   0
+  Columns 7 through 8
+                   0                   0
+  Columns 9 through 10
+                   0                   0
+  Column 11
+                   0
+u =
+  Columns 1 through 2
+   2.000000000000000   1.900000000000000
+  Columns 3 through 4
+   1.805000000000000   1.714750000000000
+  Columns 5 through 6
+   1.629012500000000                   0
+  Columns 7 through 8
+                   0                   0
+  Columns 9 through 10
+                   0                   0
+  Column 11
+                   0
+u =
+  Columns 1 through 2
+   2.000000000000000   1.900000000000000
+  Columns 3 through 4
+   1.805000000000000   1.714750000000000
+  Columns 5 through 6
+   1.629012500000000   1.547561875000000
+  Columns 7 through 8
+                   0                   0
+  Columns 9 through 10
+                   0                   0
+  Column 11
+                   0
+u =
+  Columns 1 through 2
+   2.000000000000000   1.900000000000000
+  Columns 3 through 4
+   1.805000000000000   1.714750000000000
+  Columns 5 through 6
+   1.629012500000000   1.547561875000000
+  Columns 7 through 8
+   1.470183781250000                   0
+  Columns 9 through 10
+                   0                   0
+  Column 11
+                   0
+u =
+  Columns 1 through 2
+   2.000000000000000   1.900000000000000
+  Columns 3 through 4
+   1.805000000000000   1.714750000000000
+  Columns 5 through 6
+   1.629012500000000   1.547561875000000
+  Columns 7 through 8
+   1.470183781250000   1.396674592187500
+  Columns 9 through 10
+                   0                   0
+  Column 11
+                   0
+u =
+  Columns 1 through 2
+   2.000000000000000   1.900000000000000
+  Columns 3 through 4
+   1.805000000000000   1.714750000000000
+  Columns 5 through 6
+   1.629012500000000   1.547561875000000
+  Columns 7 through 8
+   1.470183781250000   1.396674592187500
+  Columns 9 through 10
+   1.326840862578125                   0
+  Column 11
+                   0
+u =
+  Columns 1 through 2
+   2.000000000000000   1.900000000000000
+  Columns 3 through 4
+   1.805000000000000   1.714750000000000
+  Columns 5 through 6
+   1.629012500000000   1.547561875000000
+  Columns 7 through 8
+   1.470183781250000   1.396674592187500
+  Columns 9 through 10
+   1.326840862578125   1.260498819449219
+  Column 11
+                   0
+u =
+  Columns 1 through 2
+   2.000000000000000   1.900000000000000
+  Columns 3 through 4
+   1.805000000000000   1.714750000000000
+  Columns 5 through 6
+   1.629012500000000   1.547561875000000
+  Columns 7 through 8
+   1.470183781250000   1.396674592187500
+  Columns 9 through 10
+   1.326840862578125   1.260498819449219
+  Column 11
+   1.197473878476758
+trapezoidal wrong result for input a=-1,t0=1,dt=0.1,n=10,u0=2
